@@ -52,12 +52,12 @@ Estimated time for task
 
 [Data Collection Form](Data%20Collection%20Form.xlsx)
 
-2. Next, edit the content in the choices tab (This is the purple tab named ‘choices’, please do not edit the other tabs).
+2. Next, edit the content in the choices tab (This is the purple tab named **‘choices’**, please do not edit the other tabs).
 
 When editing your form, please note: *only cells in column C should have been edited. The instructions below go into more detail as to to how to edit the data collection form.* 
 
 3. Edit according to your department names. (row 4-8 of column C).
-4. Edit according to your facility names. (column C, row 9-34). Please bear in mind that the facilities relate to the department. In our example department UCLH contains facilities from A- G, and the form is colour coded to reflect this. For C5 it isH -K, C6 L-M, C7 N-R and C8 S-Z.  Please delete any rows not used. 
+4. Edit according to your facility names. (column C, row 9-34). Please bear in mind that the facilities relate to the department. In the example department UCLH contains facilities from A- G, and the form is colour coded to reflect this. For C5 it isH -K, C6 L-M, C7 N-R and C8 S-Z.  Please delete any rows not used. 
 5. Save the form. 
 6. You are now ready to upload the form to Kobo. 
 
@@ -65,15 +65,15 @@ When editing your form, please note: *only cells in column C should have been ed
 Please note; *this is a data sharing tool but has the option for data to remain private to the uploader, and it is straightforward how to ensure the data is visible to only you.*
 
 1. Open KoBo, and log into your account 
-2. Next press new, then upload, and select XLSform. Upload your saved data collection form. 
+2. Next press **new**, then **upload**, and select **XLSform**. Upload your data collection form. 
 ![](Screenshots%20folder/2%20Upload%20XLSForm.png)
-3. The data collection form should now be uploaded, now lets press deploy the form, this makes the form active, and ready to collect data.
+3. The data collection form is now uploaded, now click **deploy** the form, this makes the form active, and ready to collect data. 
 
 # Phase 4: -Collecting Your Data-
 1. Your data collectors will now be able to access it and complete the data collection form. Your users have the option to either log in (either online or via the app, in which case they need your login details) or use the form hyperlink. For this they do not login and it is a good option for those who do not have the app (it is not available on apple products). 
-2. Your data collectors should use a new form per monitoring session. Provided the form has been formatted correctly it should be straightforward for them to fill in the form.
+2. Your data collectors should use a new form per monitoring session. Provided the form has been formatted correctly it should be straightforward for them to fill in the form. Please ensure your data collectors put their own name down in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
-3. Once the form has started to be used, Kobo will generate a ‘data’ page these will appear as individual forms with the names of the collectors.  
+3. Once the form has started to be used, Kobo will generate a **‘data’** page these will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
 For more information on form accessibility and use, please click here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
@@ -89,7 +89,7 @@ Estimated time for task
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
 2. Click the data button which is at the top of the page 
 ![](Screenshots%20folder/6%20inside%20data%20section.png)
-3. On the left hand side of the data page you are now on there is a downloads button. In the Download Data criteria, make sure the Export type is XLS and Value and header format is XML values and headers. 
+3. On the left hand side of the data page you are now on there is a downloads button. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
 4. Download this, depending on the size of your data and strength of wifi this may take a little time. 
 
@@ -105,12 +105,12 @@ Estimated time for task
 
 [HHOT Dashboard](HHOT%20Dashboard.xlsb)
 
-**RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called ‘Hand Hygiene Observation tool’ and ‘OBSERVATION_REPEAT’ how to fill them with your data from KoBo is explained below. 
+**RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called **‘Hand Hygiene Observation tool’** and **‘OBSERVATION_REPEAT’** how to fill them with your data from KoBo is explained below. 
 
 **GREY TABS**: These are calculation tabs of which there are two. 
-* data_manipulated:DO NOT EDIT THIS PAGE this is for calculations, it may provide a useful reference but please do not edit it as this will affect the tool.  
+* data_manipulated: **DO NOT EDIT THIS PAGE** this is for calculations, it may provide a useful reference but please do not edit it as this will affect the tool.  
 * lists: this page will need to be edited if you have changed the category/ department/facility/ward names from the ODK form. How to do this is explained below. 
-* tables: this will generate once you have inputted criteria into the ‘analytics’, please DO NOT EDIT THIS PAGE  
+* tables: this will generate once you have inputted criteria into the ‘analytics’, please **DO NOT EDIT THIS PAGE**  
 
 **GREEN TAB**: This is the tab where the dashboard analytics will be displayed based on user criteria. Using this is expalined later.
 To use the tool you will need to edit this page under the following categories 
@@ -118,33 +118,33 @@ To use the tool you will need to edit this page under the following categories
 * Desired criteria (your options are:Department/Dep_facility/Ward/Profession)
 * Row labels 
 
-Please Note: *the ‘tables’ page will not generate data until you edit criteria in ‘analytics’ you do not need to edit it, the formulas do that for you PLEASE DO NOT EDIT THIS PAGE*
+Please Note: *the ‘tables’ page will not generate data until you edit criteria in ‘analytics’ you do not need to edit it, the formulas do that for you **PLEASE DO NOT EDIT THIS PAGE**
 
 2. You must Copy&paste the data from your downloaded form into the red tabs “Hand Hygiene Observation Tool” and “OBSERVATION_REPEAT” in the same order as the ODK file export. 
 
-* The first tab (which will be named as you have denoted when you uploaded the file to KoBo) must go into the tab ‘Hand Hygiene Observation Tool’ (one of the red tabs)
-* The second tab called ‘OBSERVATION_REPEAT’ must go into the tab also called ‘OBSERVATION_REPEAT’ in the HHOT.
+* The first tab (which will be named as you have denoted when you uploaded the file to KoBo) must go into the tab **‘Hand Hygiene Observation Tool’** (one of the red tabs)
+* The second tab called **‘OBSERVATION_REPEAT’** must go into the tab also called **‘OBSERVATION_REPEAT’** in the HHOT.
        
-3. Now edit the HHOT  ‘list’ page (it is a grey tab in the HHOT dashboard) 
+3. Now edit the HHOT  **‘list’** page (it is a grey tab in the HHOT dashboard) 
 4. Edit the department name to match the previous edits made for the data collection form. Similar to that process, the HHOT provided has generic names that must be edited to reflect what you wish to monitor. 
 
 * Department names go under Column A and on Row 1.
 * Facility names go under each respective Department column (example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) 
 * Please delete any unwanted Department/Facility and add any extra Department/Facility.
 
-5. Ensure that “ALL” is present at the end of every column as a Facility choice, this will ensure that this is a option for you to measure if you wish. 
+5. Ensure that **“ALL”** is present at the end of every column as a Facility choice, this will ensure that this is a option for you to measure if you wish. 
 ![](/Screenshots%20folder/8%20ensuring%20'all'%20is%20there.png)
-6. To adjust defined names, Hit CTRL+F3 to open the Name Manager, or on Macs on Macs. ⌘ + fn + F3) By default, the generic departments are used for Defined Names.
-7. Click on “Edit” to modify each applicable category
+6. To adjust defined names, Hit CTRL+F3 to open the Name Manager, (or on Macs. ⌘ + fn + F3) By default, the generic departments are used for **"Defined Names"**.
+7. Click on **“Edit”** to modify each applicable category
 
-* The “Name” column (DEPA, DEPB, DEPC, DEPD, DEPE) must be modified to reflect the same 
-* Deparment Names as on the “lists” tab (ie. Montreal, London and Nairobi).
+* The **“Name”** column (DEPA, DEPB, DEPC, DEPD, DEPE) must be modified to reflect the same 
+* Deparment Names as on the **“lists”** tab (ie. Montreal, London and Nairobi).
 
 # Phase 7 : -Analysing your data in HHOT-
-The visualisation element of HHOT takes place in the ‘analytics’ tab. You must format this according to your needs. How to do this is explained below.
-Please ensure that the Calculation Options are set to “Automatic”. Go to Excel Ribbon.
+The visualisation element of HHOT takes place in the **"analytics"** tab. You must format this according to your needs. How to do this is explained below.
+Please ensure that the Calculation Options are set to **“Automatic”**. Go to Excel Ribbon.
 ![](https://github.com/MSF-UK/HHOT-Handbook/blob/master/Screenshots%20folder/9%20setting%20to%20automatic.png)
 
 1. First input the dates that the observations started, and stopped. Use this format: day/month/year. 
-2. Next refresh the page, and go to the pivot table on the left hand side of the page, and turn the option to “true” for date range. If this is proving difficult, refresh the page again. 
+2. Next refresh the page, and go to the pivot table on the left hand side of the page, and turn the option to **“true”** for date range. If this is proving difficult, refresh the page again. 
 3. Enter the department, facility, ward and profession; into the criteria table columns. This should be in a series of drop down menus.  Then press refresh and the data analysis will be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
