@@ -89,3 +89,57 @@ Estimated time for task
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
 4. Download this, depending on the size of your data and strength of wifi this may take a little time. 
 
+# Phase 6: -Inputting your data from Kobo into HHOT-
+
+Objectives of step
+*To input your data to the HHOT tool and thus visualise it.*  
+
+Estimated time for task
+*30+ minutes, although this will depend on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.*
+
+1. First open the HHOT dashboard by following this link
+[HHOT Dashboard](HHOT-Handbook/blob/master/Screenshots%20folder/7%20downloading%20from%20kobo.pngHHOT-Handbook/blob/master/Screenshots%20folder/7%20downloading%20from%20kobo.png)
+
+**RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called ‘Hand Hygiene Observation tool’ and ‘OBSERVATION_REPEAT’ how to fill them with your data from KoBo is explained below. 
+
+**GREY TABS**: These are calculation tabs of which there are two. 
+* data_manipulated:DO NOT EDIT THIS PAGE this is for calculations, it may provide a useful reference but please do not edit it as this will affect the tool.  
+* lists: this page will need to be edited if you have changed the category/ department/facility/ward names from the ODK form. How to do this is explained below. 
+* tables: this will generate once you have inputted criteria into the ‘analytics’, please DO NOT EDIT THIS PAGE  
+
+**GREEN TAB**: This is the tab where the dashboard analytics will be displayed based on user criteria. Using this is expalined later.
+To use the tool you will need to edit this page under the following categories 
+* Date range 
+* Desired criteria (your options are:Department/Dep_facility/Ward/Profession)
+* Row labels 
+
+Please Note: *the ‘tables’ page will not generate data until you edit criteria in ‘analytics’ you do not need to edit it, the formulas do that for you PLEASE DO NOT EDIT THIS PAGE*
+
+2. You must Copy&paste the data from your downloaded form into the red tabs “Hand Hygiene Observation Tool” and “OBSERVATION_REPEAT” in the same order as the ODK file export. 
+
+* The first tab (which will be named as you have denoted when you uploaded the file to KoBo) must go into the tab ‘Hand Hygiene Observation Tool’ (one of the red tabs)
+* The second tab called ‘OBSERVATION_REPEAT’ must go into the tab also called ‘OBSERVATION_REPEAT’ in the HHOT.
+       
+3. Now edit the HHOT  ‘list’ page (it is a grey tab in the HHOT dashboard) 
+4. Edit the department name to match the previous edits made for the data collection form. Similar to that process, the HHOT provided has generic names that must be edited to reflect what you wish to monitor. 
+
+* Department names go under Column A and on Row 1.
+* Facility names go under each respective Department column (example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) 
+* Please delete any unwanted Department/Facility and add any extra Department/Facility.
+
+5. Ensure that “ALL” is present at the end of every column as a Facility choice, this will ensure that this is a option for you to measure if you wish. 
+![](/Screenshots%20folder/8%20ensuring%20'all'%20is%20there.png)
+6. To adjust defined names, Hit CTRL+F3 to open the Name Manager, or on Macs on Macs. ⌘ + fn + F3) By default, the generic departments are used for Defined Names.
+7. Click on “Edit” to modify each applicable category
+
+* The “Name” column (DEPA, DEPB, DEPC, DEPD, DEPE) must be modified to reflect the same 
+* Deparment Names as on the “lists” tab (ie. Montreal, London and Nairobi).
+
+# Phase 7 : -Analysing your data in HHOT-
+The visualisation element of HHOT takes place in the ‘analytics’ tab. You must format this according to your needs. How to do this is explained below.
+Please ensure that the Calculation Options are set to “Automatic”. Go to Excel Ribbon.
+![](https://github.com/MSF-UK/HHOT-Handbook/blob/master/Screenshots%20folder/9%20setting%20to%20automatic.png)
+
+1. First input the dates that the observations started, and stopped. Use this format: day/month/year. 
+2. Next refresh the page, and go to the pivot table on the left hand side of the page, and turn the option to “true” for date range. (INSERT SCREENSHOT) If this is proving difficult, refresh the page again. 
+3. Enter the department, facility, ward and profession; into the criteria table columns. This should be in a series of drop down menus.  Then press refresh and the data analysis will be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
