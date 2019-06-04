@@ -47,7 +47,7 @@ Estimated time for task
 
 1. First download the data collection form by following this link: 
 
-[Data Collection Form](Data_Collection_FormData%20Collection%20Form.xlsx)
+[Data Collection Form](Data%20Collection%20Form.xlsx)
 
 2. Next, edit the content in the choices tab (This is the purple tab named ‘choices’, please do not edit the other tabs).
 
@@ -97,8 +97,9 @@ Objectives of step
 Estimated time for task
 *30+ minutes, although this will depend on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.*
 
-1. First open the HHOT dashboard by following this link
-[HHOT Dashboard](MSF-UK/HHOT-Handbook/blob/master/HHOT%20Dashboard.xlsb)
+1. First open the HHOT dashboard by following this link:
+
+[HHOT Dashboard](HHOT%20Dashboard.xlsb)
 
 **RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called ‘Hand Hygiene Observation tool’ and ‘OBSERVATION_REPEAT’ how to fill them with your data from KoBo is explained below. 
 
@@ -141,5 +142,5 @@ Please ensure that the Calculation Options are set to “Automatic”. Go to Exc
 ![](https://github.com/MSF-UK/HHOT-Handbook/blob/master/Screenshots%20folder/9%20setting%20to%20automatic.png)
 
 1. First input the dates that the observations started, and stopped. Use this format: day/month/year. 
-2. Next refresh the page, and go to the pivot table on the left hand side of the page, and turn the option to “true” for date range. (INSERT SCREENSHOT) If this is proving difficult, refresh the page again. 
+2. Next refresh the page, and go to the pivot table on the left hand side of the page, and turn the option to “true” for date range. If this is proving difficult, refresh the page again. 
 3. Enter the department, facility, ward and profession; into the criteria table columns. This should be in a series of drop down menus.  Then press refresh and the data analysis will be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
