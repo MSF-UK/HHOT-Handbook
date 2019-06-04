@@ -47,7 +47,7 @@ Estimated time for task
 
 1. First download the data collection form by following this link: 
 
-[Data Collection Form](HHOT-Handbook/blob/master/Data%20Collection%20Form.xlsx)
+[Data Collection Form](MSF-UK/HHOT-Handbook/blob/master/Data%20Collection%20Form.xlsx)
 
 2. Next, edit the content in the choices tab (This is the purple tab named ‘choices’, please do not edit the other tabs).
 
@@ -98,7 +98,7 @@ Estimated time for task
 *30+ minutes, although this will depend on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.*
 
 1. First open the HHOT dashboard by following this link
-[HHOT Dashboard](HHOT-Handbook/blob/master/Screenshots%20folder/7%20downloading%20from%20kobo.pngHHOT-Handbook/blob/master/Screenshots%20folder/7%20downloading%20from%20kobo.png)
+[HHOT Dashboard](MSF-UK/HHOT-Handbook/blob/master/HHOT%20Dashboard.xlsb)
 
 **RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called ‘Hand Hygiene Observation tool’ and ‘OBSERVATION_REPEAT’ how to fill them with your data from KoBo is explained below. 
 
