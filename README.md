@@ -20,6 +20,10 @@ This guide explains fully how to accomplish each of these steps.
 
 ![](Screenshots%20folder/1%20HHOT%20in%20use.png)
 
+A example of the tool in use can be found here. 
+
+[HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
+
 # Phase 1: -How to create a KoBo account- 
 
 Objectives of step
@@ -61,6 +65,9 @@ When editing your form, please note: *only cells in column C should have been ed
 5. Save the form. 
 6. You are now ready to upload the form to Kobo. 
 
+For a point of reference, a example of a edited data collection form is provided below. 
+[Example Data Colletion Form](Data%20Collection%20Form%20%20Example.xlsx)
+
 # Phase 3: -Deploy Your Data Collection Form- 
 Please note; *this is a data sharing tool but has the option for data to remain private to the uploader, and it is straightforward how to ensure the data is visible to only you.*
 
@@ -76,6 +83,9 @@ Please note; *this is a data sharing tool but has the option for data to remain 
 3. Once the form has started to be used, Kobo will generate a **‘data’** page these will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
 For more information on form accessibility and use, please click here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
+
+For reference, a example of a downloaded Kobo data collection survay has been provided below. 
+[Example Kobo Data Collection Surva](Kobo%20Data%20Download%20Example.xlsx)
 
 # Phase 5: -Downloading Your Data-
 
