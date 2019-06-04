@@ -40,10 +40,13 @@ The ODK form provided is a generic survey that must be adapted to the needs of t
 
 Following the correct formatting of your data within the provided data collection form, you will then need to upload your survey to Kobo. You must keep the format of when editing, otherwise the data you generate with Kobo will not be transferable into HHOT. 
 
+
 Objectives of step
-* Correctly format your data collection form in preparation for uploading to Kobo. 
+* *Correctly format your data collection form in preparation for uploading to Kobo.* 
+
 Estimated time for task
-* This task requires formatting the data collection  form provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on). 
+* *This task requires formatting the data collection  form provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).* 
+
 
 1. First download the data collection form by following this link: 
 
@@ -75,6 +78,7 @@ Please note; *this is a data sharing tool but has the option for data to remain 
 For more information on form accessibility and use, please click here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
 # Phase 5: -Downloading Your Data-
+
 Objectives of step
 * *To export your data from KBT into excel in order ot then input your data into HHOT.* 
 
@@ -92,10 +96,10 @@ Estimated time for task
 # Phase 6: -Inputting your data from Kobo into HHOT-
 
 Objectives of step
-*To input your data to the HHOT tool and thus visualise it.*  
+* *To input your data to the HHOT tool and thus visualise it.*  
 
 Estimated time for task
-*30+ minutes, although this will depend on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.*
+* *30+ minutes, although this will depend on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.*
 
 1. First open the HHOT dashboard by following this link:
 
