@@ -47,7 +47,7 @@ Estimated time for task
 
 1. First download the data collection form by following this link: 
 
-[Data Collection Form](MSF-UK/HHOT-Handbook/blob/master/Data%20Collection%20Form.xlsx)
+[Data Collection Form](Data_Collection_FormData%20Collection%20Form.xlsx)
 
 2. Next, edit the content in the choices tab (This is the purple tab named ‘choices’, please do not edit the other tabs).
 
