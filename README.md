@@ -67,7 +67,7 @@ When editing your form, please note: *only cells in column C should have been ed
 
 For a point of reference, a example of a edited data collection form is provided below. 
 
-[Example Data Colletion Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx)
+[Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx)
 
 # Phase 3: -Deploy Your Data Collection Form- 
 Please note; *this is a data sharing tool but has the option for data to remain private to the uploader, and it is straightforward how to ensure the data is visible to only you.*
