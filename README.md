@@ -38,6 +38,8 @@ Estimated time for task
 
 You have now created the platform for data collection. The next phase will be formatting a questionnaire for data collection. 
 
+Please note: *Kobo works best in Google Chrome, you may be unable to use it in Internet Explorer or Firefox.* 
+
 # Phase 2: -Create Your Data Collection Form- 
 
 The ODK form provided is a generic survey that must be adapted to the needs of the user. ODK is its technical name but for the sake of simplicity it is going to be referred to as a **‘data collection form’** as this is its purpose. The data collection form is currently formatted with general names (eg: Department 1, Facility A) you must edit these to reflect the sites you wish to monitor. 
@@ -81,6 +83,9 @@ Please note; *this is a data sharing tool but has the option for data to remain 
 1. Your data collectors will now be able to access it and complete the data collection form. Your users have the option to either log in (either online or via the app, in which case they need your login details) or use the form hyperlink. For this they do not login and it is a good option for those who do not have the app (it is not available on apple products). 
 2. Your data collectors should use a new form per monitoring session. Provided the form has been formatted correctly it should be straightforward for them to fill in the form. Please ensure your data collectors put their own name down in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
+
+*If you are having issues with this step* Double check you are using Google Chrome, this is the best engine to use for this. Try using the mobile app if you are using a hyperlink, or vice versa. You may also be having wifi connectivity issues. 
+
 3. Once the form has started to be used, Kobo will generate a **‘data’** page these will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
 For more information on form accessibility and use, please click here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
@@ -97,7 +102,7 @@ Objectives of step
 Estimated time for task
 * *Two minutes, depends on dataset size and speed of wifi.*
 
-1. Once in your KoBo account you willthis takes you into the summary page of your form. 
+1. Once in your KoBo account click this, which takes you into the summary page of your form. 
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
 2. Click the data button which is at the top of the page 
 ![](Screenshots%20folder/6%20inside%20data%20section.png)
