@@ -90,9 +90,6 @@ Please note; *this is a data sharing tool but has the option for data to remain 
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
 For more information on form accessibility and use, please click here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
-For reference, a example of a downloaded Kobo data collection survay has been provided below. 
-
-[Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
 
 # Phase 5: -Downloading Your Data-
 
@@ -109,6 +106,10 @@ Estimated time for task
 3. On the left hand side of the data page you are now on there is a downloads button. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
 4. Download this, depending on the size of your data and strength of wifi this may take a little time. 
+
+For reference, a example of a downloaded Kobo data collection survay has been provided below. 
+
+[Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
 
 # Phase 6: -Inputting your data from Kobo into HHOT-
 
