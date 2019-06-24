@@ -1,4 +1,4 @@
-# -Hand Hygiene Observation Tool Handbook-
+# -Hand Hygiene Observation Toolkit Handbook-
 *The Explanatory Handbook for the Hand Hygiene Observation Tool*
 
 The Hand Hygiene Observation Tool enables users in the field to observe, record and share hand hygiene observations from medical facilities. A dashboard will allow analysis of data from across sites, providing information on hand hygiene compliance at facility and ward level. This information will inform decision-making and interventions at sites where hand hygiene can be improved.
