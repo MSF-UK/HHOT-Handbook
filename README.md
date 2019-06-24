@@ -9,7 +9,9 @@ The HHOT measures the  5 moments adherence in the following:
 * % before clean procedure 
 * % after body fluid risk 
 * % after touching patient 
-* % after soundings 
+* % after surroundings
+
+
 The starter kit for this campaign can be found at the below link. Please click it for the survey form that informed the creation of the HHOT tool, self assessment, 5 moments of cleanliness poster among other resources that may be useful to you. 
 (https://www.who.int/gpsc/5may/tools/en/) 
 
