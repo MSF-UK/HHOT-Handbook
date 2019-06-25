@@ -1,4 +1,4 @@
-# -Hand Hygiene Observation Toolkit Handbook-
+# Hand Hygiene Observation Toolkit Handbook
 The Explanatory Handbook for the Hand Hygiene Observation Tool
 
 The Hand Hygiene Observation Toolkit (HHOT) enables users in the field to observe, record and share hand hygiene observations from medical facilities. A dashboard will allow analysis of data from across sites, providing information on hand hygiene compliance at facility and ward level. This information will inform decision-making and interventions at sites where hand hygiene can be improved.
@@ -84,9 +84,9 @@ Please note: this is a data sharing tool, but has the option for data to remain 
 
 *If you are having issues with this step* Double check you are using Google Chrome, this is the best browser to use for this. Try using the mobile app if you are using a hyperlink, or vice versa. You may also be having wifi connectivity issues. 
 
-3. Once the form has started to be used, Kobo will generate a **‘data’** page. These will appear as individual forms with the names of the collectors.  
+3. Once the form has started to be used, Kobo will generate a **‘data’** page for it. These will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
-For more information on form accessibility and use, please click here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
+More information on form accessibility and use can be found here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
 
 # Phase 5: Downloading Your Data
@@ -95,33 +95,32 @@ Objectives of step
 * To export your data from Kobo Toolkit into Excel in order to then input your data into HHOT.
 
 Estimated time for task
-* Two minutes, depending on dataset size and speed of wifi.
+* Two minutes, depending on dataset size and internet connectivity.
 
-1. Once in your KoBo account click this, which takes you into the summary page of your form. 
+1. Once in your Kobo account click this, which takes you into the summary page of your form. 
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
-2. Click the data button which is at the top of the page 
+2. Select **'Data** at the top of the page 
 ![](Screenshots%20folder/6%20inside%20data%20section.png)
-3. On the left hand side of the data page you are now on there is a downloads button. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
+3. From the list on the left-hand side, select **'Downloads'**. 
+4. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
-4. Download this, depending on the size of your data and strength of wifi this may take a little time. 
+5. You are now ready to download your data. Depending on the size of your data and strength of wifi this may take a little time. 
 
-For reference, a example of a downloaded Kobo data collection survay has been provided below. 
+For reference, an example of a downloaded Kobo data collection survey has been provided below. 
 
 [Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
 
 # Phase 6: Inputting Your Data From Kobo Into HHOT
 
 Objectives of step
-* To input your data to the HHOT tool and thus visualise it. 
+* To input your data to the HHOT and thus visualise it. 
 
 Estimated time for task
-* 30+ minutes, depending on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.
+* 30+ minutes, depending on the size and type of your dataset. You may need to make many edits to the HHOT and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in the process.
 
-1. First open the HHOT dashboard by following this link:
+1. First open the HHOT dashboard: [HHOT Dashboard](HHOT%20Dashboard.xlsb)
 
-[HHOT Dashboard](HHOT%20Dashboard.xlsb)
-
-**RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called **‘Hand Hygiene Observation tool’** and **‘OBSERVATION_REPEAT’** how to fill them with your data from KoBo is explained below. 
+**RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called **‘Hand Hygiene Observation tool’** and **‘OBSERVATION_REPEAT’**. How to fill them with your data explained below. 
 
 **GREY TABS**: These are calculation tabs of which there are two. 
 * data_manipulated: **DO NOT EDIT THIS PAGE** this is for calculations, it may provide a useful reference but please do not edit it as this will affect the tool.  
