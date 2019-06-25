@@ -78,13 +78,13 @@ Please note: this is a data sharing tool, but has the option for data to remain 
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
 
 # Phase 4: Collecting Your Data
-1. Your data collectors will now be able to access it and complete the data collection form. Your users have the option to either log in (either online or via the app, in which case they need your login details) or use the form hyperlink. For this they do not login and it is a good option for those who do not have the app (it is not available on apple products). 
-2. Your data collectors should use a new form per monitoring session. Provided the form has been formatted correctly it should be straightforward for them to fill in the form. Please ensure your data collectors put their own name down in the name box and not the person they are observing. 
+1. Your data collectors will now be able to access and complete the data collection form. Your users have the option to log in (either through a browser or via the app, in which case they need your login details) or use the form's hyperlink. For this they do not need to log in, so it is a good option for those who do not have the app (it is not available on apple products). 
+2. Your data collectors should use a new form fo each monitoring session. Provided the form has been formatted correctly it should be straightforward for them to fill in. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
 
-*If you are having issues with this step* Double check you are using Google Chrome, this is the best engine to use for this. Try using the mobile app if you are using a hyperlink, or vice versa. You may also be having wifi connectivity issues. 
+*If you are having issues with this step* Double check you are using Google Chrome, this is the best browser to use for this. Try using the mobile app if you are using a hyperlink, or vice versa. You may also be having wifi connectivity issues. 
 
-3. Once the form has started to be used, Kobo will generate a **‘data’** page these will appear as individual forms with the names of the collectors.  
+3. Once the form has started to be used, Kobo will generate a **‘data’** page. These will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
 For more information on form accessibility and use, please click here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
@@ -92,10 +92,10 @@ For more information on form accessibility and use, please click here: (http://s
 # Phase 5: Downloading Your Data
 
 Objectives of step
-* To export your data from KBT into excel in order ot then input your data into HHOT.
+* To export your data from Kobo Toolkit into Excel in order to then input your data into HHOT.
 
 Estimated time for task
-* Two minutes, depends on dataset size and speed of wifi.
+* Two minutes, depending on dataset size and speed of wifi.
 
 1. Once in your KoBo account click this, which takes you into the summary page of your form. 
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
@@ -109,13 +109,13 @@ For reference, a example of a downloaded Kobo data collection survay has been pr
 
 [Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
 
-# Phase 6: Inputting your data from Kobo into HHOT
+# Phase 6: Inputting Your Data From Kobo Into HHOT
 
 Objectives of step
-* *To input your data to the HHOT tool and thus visualise it.*  
+* To input your data to the HHOT tool and thus visualise it. 
 
 Estimated time for task
-* *30+ minutes, although this will depend on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.*
+* 30+ minutes, depending on the size and type of your dataset. You may need to make many edits to the HHOT tool and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in this process.
 
 1. First open the HHOT dashboard by following this link:
 
