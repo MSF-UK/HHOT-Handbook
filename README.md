@@ -175,11 +175,17 @@ If you are having issues at this step it is likely due to a issue with details. 
 Here is a example of what a correct download looks like 
 [Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
 
+Here is a example of what the HHOT fomatting looks like in use, it may be useful as a point of reference.
+[Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
+
 It could also be a issue with the changes made to the 'lists' page, please double check that the changes made match those made earlier to the data collection form. 
 
 3. Next refresh the page and go to the pivot table on the left hand side of the page. Turn the option to **“true”** for date range. 
 4. Then, ensure the pivot table is accurate. The **'Row Lables'** should match the **'Departments'** that you have selected in the **'Desired Criteria'** section. Double click the drop down under **'Row Lables'** to generate the options availible. 
 
 If this is proving difficult, refresh the page again. 
+
+Here is a step by step guide on how to referesh a pivot table. (https://support.office.com/en-us/article/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2)
+
 
 If you are having issues with this step it may be that the chagnes made to the 'lists' page are still inconsistant with your data download from Kobo, please double check this. 
