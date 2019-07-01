@@ -21,9 +21,11 @@ The first step is to create a Kobo Toolbox account; this will be where you colle
 
 This guide explains fully how to accomplish each of these steps. 
 
-![](Screenshots%20folder/1%20HHOT%20in%20use.png)
-
 A example of the tool in use can be found here: [Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
+
+Here is a example of what the tool looks like when it is in use. 
+
+![](Screenshots%20folder/1%20HHOT%20in%20use.png)
 
 # Phase 1: How to create a KoBo Toolbox account
 
@@ -54,6 +56,8 @@ Objectives of step
 Estimated time for task
 * This task requires formatting the data collection form provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).
 
+Please note, when collecting a file from Github, you have the options to either 'view raw' or 'download' either option is in this situation works.
+
 
 1. Download the data collection form by following at this link: [Data Collection Form](Data%20Collection%20Form.xlsx)
 2. Edit the contents in the choices tab (the purple tab named **‘choices’**). Please do not edit the other tabs.
@@ -62,7 +66,7 @@ When editing the choices tab, please note: only cells in column C should be edit
 
 3. Add your department names (row 4-8 of column C).
 4. Add your facility names (column C, row 9-34). Please bear in mind that the facilities relate to the department. In the example, department UCLH contains facilities from A-G and the form is colour coded to reflect this. For C5, it is H-K, C6 L-M, C7 N-R and C8 S-Z. Please delete any rows not used. 
-5. Save the form. 
+5. Save the form. (it is best practice to give this form a distinct name to prevent confusion during later steps) 
 6. You are now ready to upload the form to Kobo. 
 
 For reference, an example of an edited data collection form is provided below. 
@@ -120,11 +124,13 @@ Estimated time for task
 
 1. First open the HHOT dashboard: [HHOT Dashboard](HHOT%20Dashboard.xlsb)
 
+If you are unable to see all tabs, please hit the icon with '...' in it at the bottom of the page, this will expand the tabs.
+
 **RED TABS**: Data collected from the ODK form goes in these tabs. These tabs are called **‘Hand Hygiene Observation tool’** and **‘OBSERVATION_REPEAT’**. How to fill them with your data explained below. 
 
 **GREY TABS**: These are calculation tabs of which there are two. 
 * data_manipulated: **DO NOT EDIT THIS PAGE** this is for calculations; it may provide a useful reference but please do not edit it as this will affect the tool.  
-* lists: this page will need to be edited if you have changed the category/department/facility/ward names from the ODK form. How to do this is explained below. 
+* lists: this page will need to be edited if you have changed the category/department/facility/ward names from the ODK form. How to do this is explained below. Please remember to ammend the first row titled 'CATEGORY' so it matches categories ammended at the survay editing phase.
 * tables: this will generate once you have inputted criteria into the **‘analytics’**, please **DO NOT EDIT THIS PAGE**  
 
 **GREEN TAB**: This is the tab where the dashboard analytics will be displayed based on user criteria. How to use this is explained in Phase 7.
@@ -154,11 +160,26 @@ Please Note: the ‘tables’ page will not generate data until you complete the
 
 * The **“Name”** column (DEPA, DEPB, DEPC, DEPD, DEPE) must be modified to reflect the same deparment names as on the **“lists”** tab (e.g. Montreal, London and Nairobi).
 
+Please insure complete accuracy at this stage as a tiny change in any ammendedment will cause issues at later steps.
+
 # Phase 7: Analysing your data in HHOT
 The visualisation element of HHOT takes place in the **"analytics"** tab, which you can format according to your needs. How to do this is explained below.
 Please ensure that the Calculation Options are set to **“Automatic”**. Go to the Excel Ribbon.
 ![](https://github.com/MSF-UK/HHOT-Handbook/blob/master/Screenshots%20folder/9%20setting%20to%20automatic.png)
 
 1. First input the dates that the observations started and stopped. Use this format: **day/month/year.** 
-2. Next refresh the page and go to the pivot table on the left hand side of the page. Turn the option to **“true”** for date range. If this is proving difficult, refresh the page again. 
-3. Enter the department, facility, ward and profession into the criteria table columns. This should be in a series of dropdown menus.  Then press refresh and the data analysis will be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
+2. Enter the department, facility, ward and profession into the criteria table columns. This should be in a series of dropdown menus.  Then press refresh and the data analysis will be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
+
+If you are having issues at this step it is likely due to a issue with details. It may be that at the copy-paste step a detail was changed between documents. Please double check that the form was downloaded correctly from Kobo 
+
+Here is a example of what a correct download looks like 
+[Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
+
+It could also be a issue with the changes made to the 'lists' page, please double check that the changes made match those made earlier to the data collection form. 
+
+3. Next refresh the page and go to the pivot table on the left hand side of the page. Turn the option to **“true”** for date range. 
+4. Then, ensure the pivot table is accurate. The **'Row Lables'** should match the **'Departments'** that you have selected in the **'Desired Criteria'** section. Double click the drop down under **'Row Lables'** to generate the options availible. 
+
+If this is proving difficult, refresh the page again. 
+
+If you are having issues with this step it may be that the chagnes made to the 'lists' page are still inconsistant with your data download from Kobo, please double check this. 
