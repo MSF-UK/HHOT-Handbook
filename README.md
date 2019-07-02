@@ -152,9 +152,9 @@ Please Note: the ‘tables’ page will not generate data until you complete the
 * Department names go under Column A and on Row 1.
 * Facility names go under each respective Department column (in our example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) 
 
-* Please delete any unwanted Department/Facility and add any extra Department/Facility. However, please insure that your final collumn says **'ALL'** as the category and in the first cell underneath.
+* Please delete any unwanted Department/Facility and add any extra Department/Facility. 
 
-5. Ensure that **“ALL”** is present at the end of every column as a Facility choice. This will ensure that it is an option for you to measure if you wish. 
+5. Ensure that **“ALL”** is present at the end of every column as a Facility choice. This will ensure that it is an option for you to measure if you wish. The formatting must be exactly like that in the provided example, and in the below screenshot. This inculdes the blank spaces. If you had more categories in your edited data collection form, then add those in but please remember to have your final collumn 'E' in this example, say **'ALL'** in both the first and secound row.
 ![](/Screenshots%20folder/8%20ensuring%20'all'%20is%20there.png)
 6. To adjust defined names, **select CTRL+F3** to open the Name Manager (or on Macs: ⌘ + fn + F3). By default, the generic departments are used for **"Defined Names"**.
 7. Click on **“Edit”** to modify each applicable category.
