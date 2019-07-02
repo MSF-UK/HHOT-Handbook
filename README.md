@@ -150,17 +150,18 @@ Please Note: the ‘tables’ page will not generate data until you complete the
 4. Edit the department name to match the previous edits made for the data collection form. Similar to that process, the HHOT provided has generic names that must be edited to reflect what you wish to monitor. 
 
 * Department names go under Column A and on Row 1.
-* Facility names go under each respective Department column (example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) 
-* Please delete any unwanted Department/Facility and add any extra Department/Facility.
+* Facility names go under each respective Department column (in our example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) How you choose to describe categories is up to you, please note that this is what generates the 'departemnt' critera in the analytics page. In our inculded example, we have made them city categories. 
+
+* Please delete any unwanted Department/Facility and add any extra Department/Facility. However, please insure that your final collumn says **'ALL'** as the category and in the first cell underneath.
 
 5. Ensure that **“ALL”** is present at the end of every column as a Facility choice. This will ensure that it is an option for you to measure if you wish. 
 ![](/Screenshots%20folder/8%20ensuring%20'all'%20is%20there.png)
 6. To adjust defined names, **select CTRL+F3** to open the Name Manager (or on Macs: ⌘ + fn + F3). By default, the generic departments are used for **"Defined Names"**.
 7. Click on **“Edit”** to modify each applicable category.
 
-* The **“Name”** column (DEPA, DEPB, DEPC, DEPD, DEPE) must be modified to reflect the same deparment names as on the **“lists”** tab (e.g. Montreal, London and Nairobi).
+* The **“Name”** column (DEPA, DEPB, DEPC, DEPD, DEPE) must be modified to reflect the same deparment names as on the **“lists”** tab (Montreal, London, Nairobi).
 
-Please insure complete accuracy at this stage as a tiny change in any ammendedment will cause issues at later steps.
+Please insure complete accuracy at this stage as a tiny change in any ammendedment will cause issues at later steps. This is likely one of the most difficult steps in this process so please be careful. 
 
 # Phase 7: Analysing your data in HHOT
 The visualisation element of HHOT takes place in the **"analytics"** tab, which you can format according to your needs. How to do this is explained below.
