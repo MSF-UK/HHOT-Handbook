@@ -150,7 +150,7 @@ Please Note: the ‘tables’ page will not generate data until you complete the
 4. Edit the department name to match the previous edits made for the data collection form. Similar to that process, the HHOT provided has generic names that must be edited to reflect what you wish to monitor. 
 
 * Department names go under Column A and on Row 1.
-* Facility names go under each respective Department column (in our example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) How you choose to describe categories is up to you, please note that this is what generates the 'departemnt' critera in the analytics page. In our inculded example, we have made them city categories. 
+* Facility names go under each respective Department column (in our example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) 
 
 * Please delete any unwanted Department/Facility and add any extra Department/Facility. However, please insure that your final collumn says **'ALL'** as the category and in the first cell underneath.
 
