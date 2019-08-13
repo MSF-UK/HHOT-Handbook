@@ -17,7 +17,7 @@ The starter kit for **5 Moments** can be found at the below link. Please click i
 
 This handbook explains how to collect data on the 5 points of hand cleanliness, and how to format this within the HHOT and visualise your data. 
 
-The first step is to create a Kobo Toolbox account; this will be where you collect your data. You can then customise the provided data collection survey to reflect your medical facility. Upload your customised form to Kobo and your data collectors will be able to use this to gather information. The data will then be downloaded from Kobo and inputed into HHOT. 
+The first step is to create a Kobo Toolbox account; this will be where you collect your data. You can then customise the provided data collection survey to reflect your medical facility. Upload your customised form to Kobo and your data collectors will be able to use this to gather information. The data will then be downloaded from Kobo and inputted into HHOT. 
 
 This guide explains fully how to accomplish each of these steps. 
 
