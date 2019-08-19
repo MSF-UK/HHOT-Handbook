@@ -25,9 +25,9 @@ The handbook takes you through seven phases:
 6. How to input your data into the HHOT dashboard
 7. How to analyse your data in the HHOT dashboard 
 
-By the end of this process, you should have a working HHOT dashboard. [Here is an example of the dashboard using dummy data:](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
+By the end of this process, you should have a working HHOT dashboard. [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
 
-Here is a example of what the tool looks like when it is in use. 
+And, here is a screenshot of what the dashboard looks like when it is in use. 
 
 ![](Screenshots%20folder/1%20HHOT%20in%20use.png)
 
@@ -39,7 +39,7 @@ Objectives of step
 Estimated time for task
 * Two minutes.
 
-1. For more information about Kobo follow this link: (https://www.kobotoolbox.org/). 
+1. [Click this link to go to Kobo Toolbox](https://www.kobotoolbox.org/). 
 2. Select sign-up, and then create either Humanitarian Organizations or Researchers account - what follows will work with either. Please bear in mind, if you want your observers to be able to use the account, your login details should be simple. You also have the option for observers to use a hyperlink to the questionnaire, so you can choose whether or not they can log-in to Kobo.  
 3. Follow the on-screen instructions. For those encouraging users to fill in the form using the KoBo app, create a generic login which everyone can access. 
 
