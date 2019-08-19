@@ -23,14 +23,9 @@ The handbook takes you through seven phases:
 4. How to collect your data
 5. How to download your data
 6. How to input your data into the HHOT dashboard
-7. How to analyse your data in the HHOT dashboard
+7. How to analyse your data in the HHOT dashboard 
 
-
-first step is to create a Kobo Toolbox account; this will be how you collect your data. This can be customised. Upload your customised form to Kobo and your data collectors will be able to use this to gather information. The data will then be downloaded from Kobo and inputted into HHOT. 
-
-This guide explains fully how to accomplish each of these steps. 
-
-A example of the tool in use can be found here: [Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
+By the end of this process, you should have a working HHOT dashboard. Here is an example of the dashboard using dummy data: [Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
 
 Here is a example of what the tool looks like when it is in use. 
 
