@@ -69,21 +69,21 @@ The downloadable data collection form below is a generic version that can be ada
 
 
 # Phase 3: How to deploy Your Data Collection Form 
-Please note: this is a data sharing tool, but has the option for data to remain private to the uploader. It is straightforward to ensure the data is visible to only you.
 
-1. Open KoBo, and log into your account. 
-2. Next select **new**, then **upload**, then **XLSform**. Upload your data collection form. 
-![](Screenshots%20folder/2%20Upload%20XLSForm.png)
+1. Open [KoBo Toolbox](https://www.kobotoolbox.org/), and log into your account. 
+2. Next select **new**, then **upload an XLSform**. Upload your data collection form. 
+![](Screenshots%20folder/2%20Upload%20XLSForm.png) XXXXXXXXXXXXX
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
+4. Privacy thing XXXXXXXXX
 
 # Phase 4: How to collect your data
-1. Your data collectors will now be able to access and complete the data collection form. Your users have the option to log in (either through a browser or via the app, in which case they need your login details) or use the form's hyperlink. For this they do not need to log in, so it is a good option for those who do not have the app (it is not available on apple products). 
-2. Your data collectors should use a new form fo each monitoring session. Provided the form has been formatted correctly it should be straightforward for them to fill in. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
+1. Your data collectors will now be able to access and complete the data collection form. They have the option to do so via a browser (for this they will need a link or via the Kobo Collect app. For this they do not need to log in, so it is a good option for those who do not have the app (it is not available on apple products). 
+2. Your data collectors should use a new form for each observation session. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
 
-*If you are having issues with this step* Double check you are using Google Chrome, this is the best browser to use for this. Try using the mobile app if you are using a hyperlink, or vice versa. You may also be having wifi connectivity issues. 
+*If you are having issues with this step* Double check you are using Google Chrome, this is the best browser to use for this. Try using the mobile app if you are a hyperlink, or vice versa. You may also be having wifi connectivity issues. 
 
-3. Once the form has started to be used, Kobo will generate a **‘data’** page for it. These will appear as individual forms with the names of the collectors.  
+3. Once data has been collected using the form, Kobo Toolbox will generate a **‘data’** page for it. These will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
 More information on form accessibility and use can be found here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
@@ -96,6 +96,9 @@ Objectives of step
 Estimated time for task
 * Two minutes, depending on dataset size and internet connectivity.
 
+Example:
+[Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
+
 1. Once in your Kobo account click this, which takes you into the summary page of your form. 
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
 2. Select **'Data** at the top of the page 
@@ -107,7 +110,7 @@ Estimated time for task
 
 For reference, an example of a downloaded Kobo data collection survey has been provided below. 
 
-[Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
+
 
 # Phase 6: How to input your data into the HHOT dashboard
 
