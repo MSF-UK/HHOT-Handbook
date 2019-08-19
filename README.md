@@ -40,8 +40,8 @@ Estimated time for task
 * Two minutes.
 
 1. [Click this link to go to Kobo Toolbox](https://www.kobotoolbox.org/). 
-2. Select sign-up, and then create either Humanitarian Organizations or Researchers account - what follows will work with either. Please bear in mind, if you want your observers to be able to use the account, your login details should be simple. You also have the option for observers to use a hyperlink to the questionnaire, so you can choose whether or not they can log-in to Kobo.  
-3. Follow the on-screen instructions. For those encouraging users to fill in the form using the KoBo app, create a generic login which everyone can access. 
+2. Select sign-up, and then create either a Humanitarian Organizations or Researchers account - what follows will work with either.
+3. Follow the on-screen instructions, including confirming the account by clicking the link sent to your email address. 
 
 You have now created the platform for data collection. The next phase will be formatting a questionnaire for data collection. 
 
@@ -49,33 +49,24 @@ Please note: Kobo works best in Google Chrome, and you may be unable to use it i
 
 # Phase 2: How to create Your Data Collection Form 
 
-The ODK **‘data collection form’** form provided is a generic survey that can be adapted to the needs of the user. The data collection form is currently formatted with general names (eg: Department 1, Facility A), so you will need to edit these to reflect the sites you wish to monitor. 
-
-Following the correct formatting of your data within the provided data collection form, you will then need to upload your survey to Kobo. You must keep the format of when editing, otherwise the data you generate with Kobo will not be transferable into HHOT. 
-
-
 Objectives of step
 * Correctly format your data collection form in preparation for uploading to Kobo. 
 
 Estimated time for task
 * This task requires formatting the data collection form provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).
 
-Please note, when collecting a file from Github, you have the options to either 'view raw' or 'download' either option is in this situation works.
+[Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx). (Please note, when collecting a file from Github, you have the options to either 'view raw' or 'download' either option is in this situation works.)
+
+The downloadable data collection form below is a generic version that can be adapted to your needs. It is currently formatted with generic names (eg: Department 1, Facility A), so you will need to edit these to reflect the facilities you wish to monitor. 
 
 
-1. Download the data collection form by following at this link: [Data Collection Form](Data%20Collection%20Form.xlsx)
-2. Edit the contents in the choices tab (the purple tab named **‘choices’**). Please do not edit the other tabs.
+1. [Download the data collection form by clicking here.](Data%20Collection%20Form.xlsx)
+2. Only edit the contents in the choices tab (the purple tab named **‘choices’**). Please do not edit the other tabs. When editing the choices tab, please note: only cells in column C should be edited. You must keep the format of the rest of the file when editing, otherwise the data you generate with Kobo will not be transferable into HHOT.
+3. Add your department names (row 4-8 of column C). A department describes a group of facilities. If you have less than 4 departments, please delete the rows that are not needed. If you have more than four, please insert new rows below row 8.
+4. Add your facility names (column C, row 9-34). Note that each facility relate to a specific department. In the example, department Montreal contains seven facilities on rows 7-13 and the form is colour coded to reflect this. Again, please delete any facility rows not used and insert new rows if you have more facilities than space. 
+5. Save the form. Make sure to give it a distinct name. 
+6. You are now ready to upload the form to Kobo Toolbox. 
 
-When editing the choices tab, please note: only cells in column C should be edited. The instructions below go into more detail as to to how to edit the data collection form. 
-
-3. Add your department names (row 4-8 of column C).
-4. Add your facility names (column C, row 9-34). Please bear in mind that the facilities relate to the department. In the example, department UCLH contains facilities from A-G and the form is colour coded to reflect this. For C5, it is H-K, C6 L-M, C7 N-R and C8 S-Z. Please delete any rows not used. 
-5. Save the form. (it is best practice to give this form a distinct name to prevent confusion during later steps) 
-6. You are now ready to upload the form to Kobo. 
-
-For reference, an example of an edited data collection form is provided below. 
-
-[Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx)
 
 # Phase 3: How to deploy Your Data Collection Form 
 Please note: this is a data sharing tool, but has the option for data to remain private to the uploader. It is straightforward to ensure the data is visible to only you.
