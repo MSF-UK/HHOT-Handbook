@@ -1,7 +1,7 @@
 # Hand Hygiene Observation Toolkit Handbook
 The Explanatory Handbook for the Hand Hygiene Observation Tool
 
-The Hand Hygiene Observation Toolkit (HHOT) enables users in the field to observe, record and share hand hygiene observations from medical facilities. A dashboard will allow analysis of data from across sites, providing information on hand hygiene compliance at facility and ward level. This information will inform decision-making and interventions at sites where hand hygiene can be improved.
+The Hand Hygiene Observation Toolkit (HHOT) enables users in the field to observe, record, analyse and share hand hygiene observations from medical facilities. The dashboard allows analysis of hand hygiene adherence across facilities, wards and staff groups. This information can inform decision-making and interventions at sites where hand hygiene can be improved.
 
 The HHOT is based on the WHO **“5 Moments for Hand Hygiene”** approach: (http://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf)  
 The HHOT measures adherence to the 5 moments in the following: 
@@ -12,12 +12,21 @@ The HHOT measures adherence to the 5 moments in the following:
 * % after touching patient surroundings
 
 
-The starter kit for **5 Moments** can be found at the below link. Please click it for the survey form that informed the creation of the HHOT tool, the self-assessment framework, the 5 moments of cleanliness poster and other resources that may be useful to you. 
-(https://www.who.int/gpsc/5may/tools/en/) 
+The starter kit for **5 Moments** can be found at the following link: https://www.who.int/gpsc/5may/tools/en/
 
-This handbook explains how to collect data on the 5 points of hand cleanliness, and how to format this within the HHOT and visualise your data. 
+This HHOT handbook explains how to collect data on the 5 moments of hand hygiene, and how to visualise it within the HHOT dashboard. 
 
-The first step is to create a Kobo Toolbox account; this will be where you collect your data. You can then customise the provided data collection survey to reflect your medical facility. Upload your customised form to Kobo and your data collectors will be able to use this to gather information. The data will then be downloaded from Kobo and inputted into HHOT. 
+The handbook takes you through seven phases:
+1. How to create a KoBo Toolbox account
+2. How to create Your Data Collection Form 
+3. How to deploy Your Data Collection Form 
+4. How to collect your data
+5. How to download your data
+6. How to input your data into the HHOT dashboard
+7. How to analyse your data in the HHOT dashboard
+
+
+first step is to create a Kobo Toolbox account; this will be how you collect your data. This can be customised. Upload your customised form to Kobo and your data collectors will be able to use this to gather information. The data will then be downloaded from Kobo and inputted into HHOT. 
 
 This guide explains fully how to accomplish each of these steps. 
 
@@ -43,7 +52,7 @@ You have now created the platform for data collection. The next phase will be fo
 
 Please note: Kobo works best in Google Chrome, and you may be unable to use it in Internet Explorer or Firefox. 
 
-# Phase 2: Create Your Data Collection Form 
+# Phase 2: How to create Your Data Collection Form 
 
 The ODK **‘data collection form’** form provided is a generic survey that can be adapted to the needs of the user. The data collection form is currently formatted with general names (eg: Department 1, Facility A), so you will need to edit these to reflect the sites you wish to monitor. 
 
@@ -73,7 +82,7 @@ For reference, an example of an edited data collection form is provided below.
 
 [Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx)
 
-# Phase 3: Deploy Your Data Collection Form 
+# Phase 3: How to deploy Your Data Collection Form 
 Please note: this is a data sharing tool, but has the option for data to remain private to the uploader. It is straightforward to ensure the data is visible to only you.
 
 1. Open KoBo, and log into your account. 
@@ -81,7 +90,7 @@ Please note: this is a data sharing tool, but has the option for data to remain 
 ![](Screenshots%20folder/2%20Upload%20XLSForm.png)
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
 
-# Phase 4: Collecting Your Data
+# Phase 4: How to collect your data
 1. Your data collectors will now be able to access and complete the data collection form. Your users have the option to log in (either through a browser or via the app, in which case they need your login details) or use the form's hyperlink. For this they do not need to log in, so it is a good option for those who do not have the app (it is not available on apple products). 
 2. Your data collectors should use a new form fo each monitoring session. Provided the form has been formatted correctly it should be straightforward for them to fill in. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
@@ -93,7 +102,7 @@ Please note: this is a data sharing tool, but has the option for data to remain 
 More information on form accessibility and use can be found here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
 
-# Phase 5: Downloading Your Data
+# Phase 5: How to download your data
 
 Objectives of step
 * To export your data from Kobo Toolkit into Excel in order to then input your data into HHOT.
@@ -114,7 +123,7 @@ For reference, an example of a downloaded Kobo data collection survey has been p
 
 [Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
 
-# Phase 6: Inputting Your Data From Kobo Into HHOT
+# Phase 6: How to input your data into the HHOT dashboard
 
 Objectives of step
 * To input your data to the HHOT and thus visualise it. 
@@ -163,7 +172,7 @@ Please Note: the ‘tables’ page will not generate data until you complete the
 
 Please insure complete accuracy at this stage as a tiny change in any ammendedment will cause issues at later steps. This is likely one of the most difficult steps in this process so please be careful. 
 
-# Phase 7: Analysing your data in HHOT
+# Phase 7: How to analyse your data in the HHOT dashboard
 The visualisation element of HHOT takes place in the **"analytics"** tab, which you can format according to your needs. How to do this is explained below.
 Please ensure that the Calculation Options are set to **“Automatic”**. Go to the Excel Ribbon.
 ![](https://github.com/MSF-UK/HHOT-Handbook/blob/master/Screenshots%20folder/9%20setting%20to%20automatic.png)
