@@ -29,6 +29,8 @@ The handbook takes you through seven phases:
 By the end of this process, you should have a working HHOT dashboard.
 [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
 
+The HHOT Dashboard's use as a effective tool to improving adherance can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2747754)
+
 And, here is a screenshot of what the dashboard looks like when it is in use. 
 
 ![](Screenshots%20folder/1%20HHOT%20dashboard%20in%20use%20(1).png)
@@ -78,11 +80,11 @@ The downloadable data collection form below is a generic version that can be ada
 2. Next select **new**, then **upload an XLSform**. Upload your data collection form. 
 ![](Screenshots%20folder/2%20Upload%20XLSForm.png) XXx (another screenshot?)
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
-4. Most KoboToolbox users keep their settings to one user, meaning only one person can see their data. There is the option to opensourse your data and have it accessible to other KoboToolbox users. For more information please [click here](http://support.kobotoolbox.org/en/articles/592376-managing-permissions)
+4. Most KoboToolbox users keep their settings to one user, meaning only one person can see their data. There is the option to opensourse your data and have it accessible to other KoboToolbox users. For more information please [click here](http://support.kobotoolbox.org/en/articles/592376-managing-permissions).
 
 # Phase 4: How to collect your data
 
-1. Your data collectors will now be able to access and complete the data collection form. They can do so via the KoboToolbox app which is called ['KoBoCollect'](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en_GB) or via [hyperlink](http://support.kobotoolbox.org/en/articles/592441-collecting-data-through-web-forms)
+1. Your data collectors will now be able to access and complete the data collection form. They can do so via the KoboToolbox app which is called ['KoBoCollect'](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en_GB) or via [hyperlink](http://support.kobotoolbox.org/en/articles/592441-collecting-data-through-web-forms).
 2. Your data collectors should use a new form for each observation session. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
 
@@ -90,7 +92,7 @@ The downloadable data collection form below is a generic version that can be ada
 
 3. Once data has been collected using the form, Kobo Toolbox will generate a **‘data’** page for it. These will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
-More information on form accessibility and use can be found [here](http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
+More information on form accessibility and use can be found [here](http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection). 
 
 
 # Phase 5: How to download your data
@@ -106,7 +108,7 @@ More information on form accessibility and use can be found [here](http://suppor
 
 1. Once in your Kobo Toolbox account click on the name of the project, which takes you into the summary page. 
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
-2. Select **'Data** at the top of the page 
+2. Select **'Data** at the top of the page. 
 ![](Screenshots%20folder/6%20inside%20data%20section.png)
 3. From the list on the left-hand side, select **'Downloads'**. 
 4. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
@@ -166,9 +168,9 @@ Please ensure that the Calculation Options are set to **“Automatic”**. Go to
 1. First input the dates that the observations started and stopped. Use this format: **day/month/year.** 
 2. Enter the department, facility, ward and profession into the criteria table columns. This should be in a series of dropdown menus.  Then press refresh and the data analysis will be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
 
-If you are having issues at this step it is likely due to a issue with details. It may be that at the copy-paste step a detail was changed between documents. Please double check that the form was downloaded correctly from Kobo 
+If you are having issues at this step it is likely due to a issue with details. It may be that at the copy-paste step a detail was changed between documents. Please double check that the form was downloaded correctly from Kobo. 
 
-Here is a example of what a correct download looks like 
+Here is a example of what a correct download looks like. 
 [Kobo Data Download Example](Example%20Folder/Kobotoolbox%20Data%20Download%20Example.xlsx)
 
 Here is a example of what the HHOT fomatting looks like in use, it may be useful as a point of reference.
