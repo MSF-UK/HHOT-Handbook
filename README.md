@@ -1,9 +1,9 @@
 # Hand Hygiene Observation Toolkit Handbook
-The Explanatory Handbook for the Hand Hygiene Observation Tool
+The Explanatory Handbook for the Hand Hygiene Observation Tool.
 
 The Hand Hygiene Observation Toolkit (HHOT) enables users in the field to observe, record, analyse and share hand hygiene observations from medical facilities. The dashboard allows analysis of hand hygiene adherence across facilities, wards and staff groups. This information can inform decision-making and interventions at sites where hand hygiene can be improved.
 
-The HHOT is based on the WHO [5 Moments for Hand Hygiene approach](http://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf)  
+The HHOT is based on the WHO [5 Moments for Hand Hygiene approach](http://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf).  
 
 The HHOT measures adherence to the 5 hand hygine moments in the following: 
 * % before touching patient
@@ -13,7 +13,7 @@ The HHOT measures adherence to the 5 hand hygine moments in the following:
 * % after touching patient surroundings
 
 
-The starter kit for **5 Moments** can be found [here](https://www.who.int/gpsc/5may/tools/en/)
+The starter kit for **5 Moments** can be found [here](https://www.who.int/gpsc/5may/tools/en/).
 
 This HHOT handbook explains how to collect data on the 5 moments of hand hygiene, and how to visualise it within the HHOT dashboard. 
 
@@ -27,9 +27,9 @@ The handbook takes you through seven phases:
 7. How to analyse your data in the HHOT dashboard 
 
 By the end of this process, you should have a working HHOT dashboard.
-[Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
+[Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb).
 
-The HHOT Dashboard's use as a effective tool to improving adherance can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2747754)
+The HHOT Dashboard's use as a effective tool to improving adherance can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2747754).
 
 And, here is a screenshot of what the dashboard looks like when it is in use. 
 
