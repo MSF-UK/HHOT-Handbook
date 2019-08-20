@@ -77,7 +77,7 @@ The downloadable data collection form below is a generic version that can be ada
 2. Next select **new**, then **upload an XLSform**. Upload your data collection form. 
 ![](Screenshots%20folder/2%20Upload%20XLSForm.png) XXx (another screenshot?)
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
-4. Most KoboToolbox users keep their settings to one user, meaning only one person can see their data. There is the option to opensourse your data and have it accessible to other KoboToolbox users. For more information please click here(http://support.kobotoolbox.org/en/articles/592376-managing-permissions)
+4. Most KoboToolbox users keep their settings to one user, meaning only one person can see their data. There is the option to opensourse your data and have it accessible to other KoboToolbox users. For more information please [click here] (http://support.kobotoolbox.org/en/articles/592376-managing-permissions)
 
 # Phase 4: How to collect your data
 
@@ -186,6 +186,6 @@ If you are having issues visualising your data, please try the following steps.
 
 If this is proving difficult, refresh the page again. 
 
-Here is a step by step guide on how to referesh a pivot table. (https://support.office.com/en-us/article/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2)
+Here is a step by step guide on [how to referesh a pivot table](https://support.office.com/en-us/article/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2)
 
 If you are having issues with this step it may be that the chagnes made to the 'lists' page are still inconsistant with your data download from Kobo Toolbox, please double check this. 
