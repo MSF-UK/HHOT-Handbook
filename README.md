@@ -3,7 +3,7 @@ The Explanatory Handbook for the Hand Hygiene Observation Tool
 
 The Hand Hygiene Observation Toolkit (HHOT) enables users in the field to observe, record, analyse and share hand hygiene observations from medical facilities. The dashboard allows analysis of hand hygiene adherence across facilities, wards and staff groups. This information can inform decision-making and interventions at sites where hand hygiene can be improved.
 
-The HHOT is based on the WHO **“5 Moments for Hand Hygiene”** approach: (http://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf)  
+The HHOT is based on the WHO [5 Moments for Hand Hygiene approach](http://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf)  
 The HHOT measures adherence to the 5 moments in the following: 
 * % before touching patient
 * % before clean procedure 
