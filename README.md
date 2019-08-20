@@ -25,9 +25,8 @@ The handbook takes you through seven phases:
 6. How to input your data into the HHOT dashboard
 7. How to analyse your data in the HHOT dashboard 
 
-By the end of this process, you should have a working HHOT dashboard. [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
-New 
-(Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
+By the end of this process, you should have a working HHOT dashboard.
+[Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
 
 And, here is a screenshot of what the dashboard looks like when it is in use. 
 
