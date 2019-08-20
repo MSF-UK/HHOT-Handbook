@@ -33,10 +33,10 @@ And, here is a screenshot of what the dashboard looks like when it is in use.
 
 # Phase 1: How to create a KoBo Toolbox account
 
-Objectives of step
+**Objectives of step** 
 * Create KoBo Toolbox account in order to collect data for input into HHOT.
 
-Estimated time for task
+**Estimated time for task**
 * Two minutes.
 
 1. [Click this link to go to Kobo Toolbox](https://www.kobotoolbox.org/). 
@@ -49,10 +49,10 @@ Please note: Kobo works best in Google Chrome, and you may be unable to use it i
 
 # Phase 2: How to create Your Data Collection Form 
 
-Objectives of step
+**Objectives of step**
 * Correctly format your data collection form in preparation for uploading to Kobo. 
 
-Estimated time for task
+**Estimated time for task**
 * This task requires formatting the data collection form provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).
 
 [Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx). (Please note, when collecting a file from Github, you have the options to either 'view raw' or 'download' either option is in this situation works.)
@@ -77,6 +77,7 @@ The downloadable data collection form below is a generic version that can be ada
 4. Privacy thing XXXXXXXXX
 
 # Phase 4: How to collect your data
+
 1. Your data collectors will now be able to access and complete the data collection form. They have the option to do so via a browser (for this they will need a link or via the Kobo Collect app. For this they do not need to log in, so it is a good option for those who do not have the app (it is not available on apple products). 
 2. Your data collectors should use a new form for each observation session. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
@@ -90,13 +91,13 @@ More information on form accessibility and use can be found here: (http://suppor
 
 # Phase 5: How to download your data
 
-Objectives of step
+**Objectives of step**
 * To export your data from Kobo Toolkit into Excel in order to then input your data into HHOT.
 
-Estimated time for task
+**Estimated time for task**
 * Two minutes, depending on dataset size and internet connectivity.
 
-Example:
+**Example:**
 [Kobo Data Download Example](Example%20Folder/Kobo%20Data%20Download%20Example.xlsx)
 
 1. Once in your Kobo Toolbox account click on the name of the project, which takes you into the summary page. 
@@ -111,13 +112,13 @@ Example:
 
 # Phase 6: How to input your data into the HHOT dashboard
 
-Objectives of step
+**Objectives of step**
 * To input your data to the HHOT and thus visualise it. 
 
-Estimated time for task
+**Estimated time for task**
 * 30+ minutes, depending on the size and type of your dataset. You may need to make many edits to the HHOT and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in the process.
 
-Example:
+**Example:**
 [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example.xlsb) 
 
 1. First open the [HHOT dashboard template](HHOT%20Dashboard.xlsb)
