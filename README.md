@@ -75,13 +75,13 @@ The downloadable data collection form below is a generic version that can be ada
 
 1. Open [KoBo Toolbox](https://www.kobotoolbox.org/), and log into your account. 
 2. Next select **new**, then **upload an XLSform**. Upload your data collection form. 
-![](Screenshots%20folder/2%20Upload%20XLSForm.png) XXXXXXXXXXXXX
+![](Screenshots%20folder/2%20Upload%20XLSForm.png) XXXXXXXXXXXXX (means please add new screenshot) 
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
 4. Most KoboToolbox users keep their settings to one user, meaning only one person can see their data. There is the option to opensourse your data and have it accessible to other KoboToolbox users. For more information please click here(http://support.kobotoolbox.org/en/articles/592376-managing-permissions)
 
 # Phase 4: How to collect your data
 
-1. Your data collectors will now be able to access and complete the data collection form. They have the option to do so via a browser (for this they will need a link or via the Kobo Collect app. For this they do not need to log in, so it is a good option for those who do not have the app (it is not available on apple products). 
+1. Your data collectors will now be able to access and complete the data collection form. They can do so via the KoboToolbox app which is called ['KoBoCollect'](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en_GB) or via [hyperlink](http://support.kobotoolbox.org/en/articles/592441-collecting-data-through-web-forms)
 2. Your data collectors should use a new form for each observation session. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
 
@@ -89,7 +89,7 @@ The downloadable data collection form below is a generic version that can be ada
 
 3. Once data has been collected using the form, Kobo Toolbox will generate a **‘data’** page for it. These will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
-More information on form accessibility and use can be found here: (http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
+More information on form accessibility and use can be found [here](http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection) 
 
 
 # Phase 5: How to download your data
@@ -112,6 +112,8 @@ More information on form accessibility and use can be found here: (http://suppor
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
 5. You are now ready to download your data. Click **Export** and then the download button. Depending on the size of your data and strength of wifi this may take a little time. 
 
+XXXXX insert screenshot XXxXXXXX
+
 
 # Phase 6: How to input your data into the HHOT dashboard
 
@@ -124,26 +126,25 @@ More information on form accessibility and use can be found here: (http://suppor
 **Example:**
 [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb) 
 
-1. First open the [HHOT dashboard template](HHOT%20Dashboard%20.xlsb)
+1. First open the [HHOT dashboard template](HHOT%20Dashboard%20.xlsb).
 
 If you are unable to see all tabs, please hit the icon with '...' in it at the bottom of the page, this will expand the tabs.
 
-**RED TABS**: Your downloaded data goes in these tabs. These tabs are called **‘Hand Hygiene Observation tool’** and **‘OBSERVATION_REPEAT’** - this is the same as on your downloaded data. How to fill them with your data is explained below. 
+**LIGHT GREEN TABS**: Your downloaded data goes in these tabs. These tabs are called **‘Hand Hygiene Observation tool’** and **‘OBSERVATION_REPEAT’** - this is the same as on your downloaded data. How to fill them with your data is explained below. 
 
-**GREY TABS**: These are calculation tabs of which there are two. 
-* data_manipulated: **DO NOT EDIT THIS PAGE** this is for calculations; it may provide a useful reference but please do not edit it as this will affect the tool.  
-* lists: this page will need to be edited to reflect you department facility names as in the data collection form. How to do this is explained below.
-* tables: this will generate once you have inputted criteria into the **‘analytics’**, please **DO NOT EDIT THIS PAGE**. Please Note: the ‘tables’ page will not generate data until you complete the criteria in ‘analytics’. You do not need to edit it, the formulas do that for you **PLEASE DO NOT EDIT THIS PAGE**
+**BLUE TAB**: The blue tab lablled **'lists'**.This page will need to be edited to reflect you department facility names as in the data collection form. How to do this is explained below.
 
-**GREEN TAB**: This is the tab where the interactive dashboard will be displayed. How to use this is explained in Phase 7.
+**RED TABS**: These tabs lablled **'data_manipulated'**, and **'tables'** are for calculation purposes and are not to be edited. Please, **DO NOT EDIT THESE PAGES**. 
 
-2. **Copy and paste** the data from your downloaded form into the red tabs **“Hand Hygiene Observation Tool”** and **“OBSERVATION_REPEAT”** in the same order as the file you downloaded from KoboToolbox (For the sake of clarity, this is your download from the Kobo toolkit; the data generated by your data survey.) 
+**DARK GREEN TAB**: This is the tab where the interactive dashboard will be displayed. How to use this is explained in Phase 7.
+
+2. **Copy and paste** the data from your downloaded form into the light green tabs **“Hand Hygiene Observation Tool”** and **“OBSERVATION_REPEAT”** in the same order as the file you downloaded from KoboToolbox (For the sake of clarity, this is your download from the Kobo toolkit; the data generated by your data survey.) 
 
 * The first tab (which will be named as you have denoted when you uploaded the file to Kobo Toolbox) must go into the tab **‘Hand Hygiene Observation Tool’**.
-* The second tab called **‘OBSERVATION_REPEAT’** must go into the tab also called **‘OBSERVATION_REPEAT’** in the HHOT.
+* The second tab called **‘OBSERVATION_REPEAT’** must go into the tab also called **‘OBSERVATION_REPEAT’** in the HHOT dashboard.
        
-3. Edit the HHOT  **‘list’** page (the grey tab in the HHOT dashboard) 
-4. Edit the department name to match the previous edits made for the data collection form. Similar to that process, the HHOT provided has generic names that must be edited to reflect what you wish to monitor. 
+3. Open the HHOT dashboard **‘lists’** page (the blue tab).  
+4. Edit the department name to match the previous edits made for the data collection form. Similar to that process, the HHOT dashboard provided has generic names that must be edited to reflect what you wish to monitor. 
 
 * Department names go under Column A and on Row 1.  Please remember to update both row AND column so they reflect the departments you used in the data collection form.
 * Facility names go under each respective Department column (in our example: Montreal Facilities are under Column B, London Facilities are under Column C, etc.) 
@@ -160,7 +161,7 @@ If you are unable to see all tabs, please hit the icon with '...' in it at the b
 Please insure complete accuracy at this stage as a tiny change in any ammendedment will cause issues at later steps. This is likely one of the most difficult steps in this process so please be careful. 
 
 # Phase 7: How to analyse your data in the HHOT dashboard
-The visualisation element of HHOT takes place in the **"analytics"** tab, which you can format according to your needs. How to do this is explained below.
+The visualisation element of HHOT takes place in the **"analytics"** tab (the dark green tab), which you can format according to your needs. How to do this is explained below.
 Please ensure that the Calculation Options are set to **“Automatic”**. Go to the Excel Ribbon.
 ![](https://github.com/MSF-UK/HHOT-Handbook/blob/master/Screenshots%20folder/9%20setting%20to%20automatic.png)
 
@@ -175,15 +176,19 @@ Here is a example of what a correct download looks like
 Here is a example of what the HHOT fomatting looks like in use, it may be useful as a point of reference.
 [Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
 
-
 It could also be a issue with the changes made to the 'lists' page, please double check that the changes made match those made earlier to the data collection form. 
 
-3. Next refresh the page and go to the pivot table on the left hand side of the page. Turn the option to **“true”** for date range. 
-4. Then, ensure the pivot table is accurate. The **'Row Lables'** should match the **'Departments'** that you have selected in the **'Desired Criteria'** section. Double click the drop down under **'Row Lables'** to generate the options availible. 
+
+**Congradulations! You now have visualised your data!**
+
+
+If you are having issues visualising your data, please try the following steps. 
+
+1. Next refresh the page and go to the pivot table on the left hand side of the page. Turn the option to **“true”** for date range. 
+2. Then, ensure the pivot table is accurate. The **'Row Lables'** should match the **'Departments'** that you have selected in the **'Desired Criteria'** section. Double click the drop down under **'Row Lables'** to generate the options availible. 
 
 If this is proving difficult, refresh the page again. 
 
 Here is a step by step guide on how to referesh a pivot table. (https://support.office.com/en-us/article/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2)
-
 
 If you are having issues with this step it may be that the chagnes made to the 'lists' page are still inconsistant with your data download from Kobo Toolbox, please double check this. 
