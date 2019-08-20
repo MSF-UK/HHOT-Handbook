@@ -12,7 +12,7 @@ The HHOT measures adherence to the 5 moments in the following:
 * % after touching patient surroundings
 
 
-The starter kit for **5 Moments** can be found at the following link: https://www.who.int/gpsc/5may/tools/en/
+The starter kit for **5 Moments** can be found [here](https://www.who.int/gpsc/5may/tools/en/)
 
 This HHOT handbook explains how to collect data on the 5 moments of hand hygiene, and how to visualise it within the HHOT dashboard. 
 
