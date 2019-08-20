@@ -30,7 +30,7 @@ By the end of this process, you should have a working HHOT dashboard.
 
 And, here is a screenshot of what the dashboard looks like when it is in use. 
 
-![](Screenshots%20folder/1%20HHOT%20in%20use.png)
+![](Screenshots%20folder/1%20HHOT%20Dashboard%20.png)
 
 # Phase 1: How to create a KoBo Toolbox account
 
@@ -112,9 +112,6 @@ More information on form accessibility and use can be found [here](http://suppor
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
 5. You are now ready to download your data. Click **Export** and then the download button. Depending on the size of your data and strength of wifi this may take a little time. 
 
-XXXXX insert screenshot XXxXXXXX
-
-
 # Phase 6: How to input your data into the HHOT dashboard
 
 **Objectives of step**
@@ -152,7 +149,7 @@ If you are unable to see all tabs, please hit the icon with '...' in it at the b
 * Please delete any unwanted Department/Facility and add any extra Department/Facility. 
 
 5. Ensure that **“ALL”** is present at the end of every column as a Facility choice. This will ensure that it is an option for you to measure if you wish. The formatting must be exactly like that in the provided example, and in the below screenshot. This inculdes the blank spaces. If you had more categories in your edited data collection form, then add those in but please remember to have your final collumn 'E' in this example, say **'ALL'** in both the first and second row.
-![](/Screenshots%20folder/8%20ensuring%20'all'%20is%20there.png)
+![](Screenshots%20folder/8%20ensuring%20'all'%20is%20there%20.png)
 6. To adjust defined names, **select CTRL+F3** to open the Name Manager (or on Macs: ⌘ + fn + F3). By default, the generic departments are used for **"Defined Names"**.
 7. Click on **“Edit”** to modify each applicable category.
 
@@ -163,7 +160,7 @@ Please insure complete accuracy at this stage as a tiny change in any ammendedme
 # Phase 7: How to analyse your data in the HHOT dashboard
 The visualisation element of HHOT takes place in the **"analytics"** tab (the dark green tab), which you can format according to your needs. How to do this is explained below.
 Please ensure that the Calculation Options are set to **“Automatic”**. Go to the Excel Ribbon.
-![](https://github.com/MSF-UK/HHOT-Handbook/blob/master/Screenshots%20folder/9%20setting%20to%20automatic.png)
+![](Screenshots%20folder/9%20setting%20to%20automatic.png)
 
 1. First input the dates that the observations started and stopped. Use this format: **day/month/year.** 
 2. Enter the department, facility, ward and profession into the criteria table columns. This should be in a series of dropdown menus.  Then press refresh and the data analysis will be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
