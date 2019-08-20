@@ -26,6 +26,8 @@ The handbook takes you through seven phases:
 7. How to analyse your data in the HHOT dashboard 
 
 By the end of this process, you should have a working HHOT dashboard. [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
+New 
+(Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
 
 And, here is a screenshot of what the dashboard looks like when it is in use. 
 
@@ -55,12 +57,19 @@ Please note: Kobo works best in Google Chrome, and you may be unable to use it i
 **Estimated time for task**
 * This task requires formatting the data collection form provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).
 
-[Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx). (Please note, when collecting a file from Github, you have the options to either 'view raw' or 'download' either option is in this situation works.)
+[Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20%20Example.xlsx). 
+new
+[Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20.xlsx). 
+
+(Please note, when collecting a file from Github, you have the options to either 'view raw' or 'download' either option is in this situation works.)
 
 The downloadable data collection form below is a generic version that can be adapted to your needs. It is currently formatted with generic names (eg: Department 1, Facility A), so you will need to edit these to reflect the facilities you wish to monitor. 
 
 
 1. [Download the data collection form by clicking here.](Data%20Collection%20Form.xlsx)
+new
+1. [Download the data collection form by clicking here.](Data%20Collection%20Form%20.xlsx)
+
 2. Only edit the contents in the choices tab (the purple tab named **‘choices’**). Please do not edit the other tabs. When editing the choices tab, please note: only cells in column C should be edited. You must keep the format of the rest of the file when editing, otherwise the data you generate with Kobo will not be transferable into HHOT.
 3. Add your department names (row 4-8 of column C). A department describes a group of facilities. If you have less than 4 departments, please delete the rows that are not needed. If you have more than four, please insert new rows below row 8.
 4. Add your facility names (column C, row 9-34). Note that each facility relate to a specific department. In the example, department Montreal contains seven facilities on rows 7-13 and the form is colour coded to reflect this. Again, please delete any facility rows not used and insert new rows if you have more facilities than space. 
@@ -120,8 +129,12 @@ More information on form accessibility and use can be found here: (http://suppor
 
 **Example:**
 [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example.xlsb) 
+new
+[Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb) 
 
 1. First open the [HHOT dashboard template](HHOT%20Dashboard.xlsb)
+new
+1. First open the [HHOT dashboard template](HHOT%20Dashboard%20.xlsb)
 
 If you are unable to see all tabs, please hit the icon with '...' in it at the bottom of the page, this will expand the tabs.
 
@@ -171,6 +184,9 @@ Here is a example of what a correct download looks like
 
 Here is a example of what the HHOT fomatting looks like in use, it may be useful as a point of reference.
 [Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example.xlsb)
+new
+[Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
+
 
 It could also be a issue with the changes made to the 'lists' page, please double check that the changes made match those made earlier to the data collection form. 
 
