@@ -78,7 +78,7 @@ The downloadable data collection form below is a generic version that can be ada
 
 1. Open [KoBo Toolbox](https://www.kobotoolbox.org/), and log into your account. 
 2. Next select **new**, then **upload an XLSform**. Upload your data collection form. 
-![](Screenshots%20folder/2%20Upload%20XLSForm.png) XXx (another screenshot?)
+![](Screenshots%20folder/2%20Upload%20XLSForm.png) 
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
 4. Most KoboToolbox users keep their settings to one user, meaning only one person can see their data. There is the option to opensourse your data and have it accessible to other KoboToolbox users. For more information please [click here](http://support.kobotoolbox.org/en/articles/592376-managing-permissions).
 
