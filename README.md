@@ -187,7 +187,7 @@ Please ensure that the Calculation Options are set to **Automatic**. Go to the E
 
 # Congradulations! You now have visualised your data!
 
-**or you are having issues visualising your data. If the latter, please try the following steps.**
+**....or you are having issues visualising your data. If the latter, please try the following steps.**
 
 1. Try retracing your steps through Stage 6 of the process, looking for configuration errors. Double check that the changes to the dashboard configuration match those made earlier to the data collection form. 
 
