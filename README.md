@@ -79,9 +79,13 @@ The data collection form template is a generic version that can be adapted to yo
 
 1. Open [KoBo Toolbox](https://www.kobotoolbox.org/), and log into your account. 
 2. Next select **new**, then **upload an XLSform**. Upload your data collection form. 
+
 ![](Screenshots%20folder/2%20Upload%20XLSForm.png) 
+
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
+
 ![](Screenshots%20folder/3%20deploy%20form.png)
+
 4. The default KoboToolbox setting is that only the signed in user has access to the uploaded form and the data. There is the option to grant access rights to other KoboToolbox users. For more information please [click here](http://support.kobotoolbox.org/en/articles/592376-managing-permissions).
 
 # Stage 4: How to collect your data
@@ -89,8 +93,11 @@ The data collection form template is a generic version that can be adapted to yo
 1. Your data collectors will now be able to access and complete the data collection form. They can do so via the KoboToolbox data collection app, which is called ['KoBoCollect'](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en_GB) or via [hyperlink](http://support.kobotoolbox.org/en/articles/592441-collecting-data-through-web-forms). **This app in only available on Android devices.**
 Note: The Kobo Collect app works better if you are observing hand hygiene in an environment without connectivity, but make sure you set it up with an internet connection of some kind to begin with.
 2. Your data collectors should use a new form for each observation 'session' (which can include multiple observations). Please ensure your data collectors put their own name in the name box and not the person they are observing. 
+
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
+
 3. Once data has been collected using the form, Kobo Toolbox will generate a **data** page for it. These will appear as individual forms with the names of the collectors.  
+
 More information on form accessibility and use can be found [here](http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection). 
 
 
@@ -106,12 +113,18 @@ More information on form accessibility and use can be found [here](http://suppor
 [Kobo Data Download Example](Example%20Folder/Kobotoolbox%20Data%20Download%20Example.xlsx)
 
 1. In your Kobo Toolbox account click on the name of the project, which takes you into the summary page. 
+
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
+
 2. Select **Data** at the top of the page. 
+
 ![](Screenshots%20folder/6%20inside%20data%20section.png)
+
 3. From the list on the left-hand side, select **Downloads**. 
 4. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
+
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
+
 5. You are now ready to download your data. Click **Export** and then the download button. Depending on the size of your data and strength of wifi this may take a little time. 
 
 # Stage 6: How to input your data into the HHOT dashboard
@@ -168,6 +181,7 @@ Please ensure complete accuracy at this stage as any error could cause issues at
 * Not applicable
 
 Please ensure that the Calculation Options are set to **Automatic**. Go to the Excel Ribbon to do this.
+
 ![](Screenshots%20folder/9%20setting%20to%20automatic.png)
 
 1. First input the dates for the time period you would like to visualise / analyse. Use this format: **day/month/year.** 
