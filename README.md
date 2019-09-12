@@ -207,4 +207,4 @@ Here is a example of what the HHOT dashboard fomatting looks like in use.
 
 # Feedback and improvements welcome!
 
-If you there are any errors in this guide, or you want to improve on the current toolkit or the guide, please document as issues on this github project.
+If you there are any errors in this guide, or you want to improve on the current toolkit or the guide, please document as issues or pull requests on this github project.
