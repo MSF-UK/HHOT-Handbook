@@ -89,8 +89,8 @@ The data collection form template is a generic version that can be adapted to yo
 1. Your data collectors will now be able to access and complete the data collection form. They can do so via the KoboToolbox data collection app, which is called ['KoBoCollect'](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en_GB) or via [hyperlink](http://support.kobotoolbox.org/en/articles/592441-collecting-data-through-web-forms). **This app in only available on Android devices.**
 Note: The Kobo Collect app works better if you are observing hand hygiene in an environment without connectivity, but make sure you set it up with an internet connection of some kind to begin with.
 2. Your data collectors should use a new form for each observation 'session' (which can include multiple observations). Please ensure your data collectors put their own name in the name box and not the person they are observing. 
-3. Once data has been collected using the form, Kobo Toolbox will generate a **data** page for it. These will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
+3. Once data has been collected using the form, Kobo Toolbox will generate a **data** page for it. These will appear as individual forms with the names of the collectors.  
 More information on form accessibility and use can be found [here](http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection). 
 
 
