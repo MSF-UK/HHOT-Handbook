@@ -1,5 +1,5 @@
-# Hand Hygiene Observation Toolkit Handbook
-The Explanatory Handbook for the Hand Hygiene Observation Tool.
+# Hand Hygiene Observation Toolkit (HHOT) Guide
+How to configure and use the Hand Hygiene Observation Toolkit.
 
 # Background
 
