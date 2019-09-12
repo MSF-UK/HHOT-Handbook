@@ -65,43 +65,36 @@ Please note: We have found Kobo works best in Google Chrome.
 **Estimated time for task**
 * This task requires configuring the data collection form template provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).
 
-[Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20.xlsx). 
+The data collection form template is a generic version that can be adapted to your needs. It is currently formatted with generic names (eg: Department 1, Facility A), so you will need to edit these to reflect the facilities you wish to monitor. 
 
-(Please note, when collecting a file from Github, you have the options to either 'view raw' or 'download' either option is in this situation works.)
-
-The downloadable data collection form below is a generic version that can be adapted to your needs. It is currently formatted with generic names (eg: Department 1, Facility A), so you will need to edit these to reflect the facilities you wish to monitor. 
-
-1. [Download the data collection form by clicking here.](Data%20Collection%20Form%20%20.xlsx)
-
-2. Only edit the contents in the choices tab (the purple tab named **‘choices’**). Please do not edit the other tabs. When editing the choices tab, please note: only cells in column C should be edited. You must keep the format of the rest of the file when editing, otherwise the data you generate with Kobo will not be transferable into HHOT.
-3. Add your department names (row 4-8 of column C). A department describes a group of facilities. If you have less than 4 departments, please delete the rows that are not needed. If you have more than four, please insert new rows below row 8.
-4. Add your facility names (column C, row 9-34). Note that each facility relate to a specific department. In the example, department Montreal contains seven facilities on rows 7-13 and the form is colour coded to reflect this. Again, please delete any facility rows not used and insert new rows if you have more facilities than space. 
+1. [Download the data collection form template by clicking here](Data%20Collection%20Form%20%20.xlsx). (Please note, when downloading a file from Github, you have the options to either 'view raw' or 'download' - either works in this situation.)
+2. Only edit the contents in the choices tab (the purple tab named **choices**). Please do not edit the other tabs. When editing the choices tab, please note: only cells in column C should be edited. You must keep the format of the rest of the file when editing, otherwise the data you generate with Kobo will not be transferable into HHOT dashboard.
+3. Add your 'department' names (row 4-8 of column C). A department describes a group of facilities. If you have less than 4 departments, please delete the rows that are not needed. If you have more than four, please insert new rows below row 8.
+4. Add your facility names (column C, row 9-34). Note that each facility relates to a specific department. In the example, department Montreal contains seven facilities on rows 7-13 and the form is colour coded to reflect this. Again, please delete any facility rows not used and insert new rows if you have more facilities than space. 
 5. Save the form. Make sure to give it a distinct name. 
 6. You are now ready to upload the form to Kobo Toolbox. 
 
 
-# Phase 3: How to deploy Your Data Collection Form 
+# Stage 3: How to deploy Your Data Collection Form 
 
 1. Open [KoBo Toolbox](https://www.kobotoolbox.org/), and log into your account. 
 2. Next select **new**, then **upload an XLSform**. Upload your data collection form. 
 ![](Screenshots%20folder/2%20Upload%20XLSForm.png) 
 3. Once your data collection form is uploaded, **deploy** the form to make it active, and ready for data collection. 
-4. Most KoboToolbox users keep their settings to one user, meaning only one person can see their data. There is the option to opensourse your data and have it accessible to other KoboToolbox users. For more information please [click here](http://support.kobotoolbox.org/en/articles/592376-managing-permissions).
+4. The default KoboToolbox setting is that only the signed in user has access to the uploaded form and the data. There is the option to grant access rights to other KoboToolbox users. For more information please [click here](http://support.kobotoolbox.org/en/articles/592376-managing-permissions).
 
-# Phase 4: How to collect your data
+# Stage 4: How to collect your data
 
-1. Your data collectors will now be able to access and complete the data collection form. They can do so via the KoboToolbox app which is called ['KoBoCollect'](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en_GB) or via [hyperlink](http://support.kobotoolbox.org/en/articles/592441-collecting-data-through-web-forms).
-2. Your data collectors should use a new form for each observation session. Please ensure your data collectors put their own name in the name box and not the person they are observing. 
+1. Your data collectors will now be able to access and complete the data collection form. They can do so via the KoboToolbox data collection app, which is called ['KoBoCollect'](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=en_GB) or via [hyperlink](http://support.kobotoolbox.org/en/articles/592441-collecting-data-through-web-forms). **This app in only available on Android devices.**
+Note: The Kobo Collect app works better if you are observing hand hygiene in an environment without connectivity, but make sure you set it up with an internet connection of some kind to begin with.
+2. Your data collectors should use a new form for each observation 'session' (which can include multiple observations). Please ensure your data collectors put their own name in the name box and not the person they are observing. 
 ![](Screenshots%20folder/3%20deploy%20form.png)
-
-*If you are having issues with this step* Double check you are using Google Chrome, this is the best browser to use for this. Try using the mobile app if you are a hyperlink, or vice versa. You may also be having wifi connectivity issues. 
-
-3. Once data has been collected using the form, Kobo Toolbox will generate a **‘data’** page for it. These will appear as individual forms with the names of the collectors.  
+3. Once data has been collected using the form, Kobo Toolbox will generate a **data** page for it. These will appear as individual forms with the names of the collectors.  
 ![](Screenshots%20folder/4%20example%20of%20form%20in%20use.png)
 More information on form accessibility and use can be found [here](http://support.kobotoolbox.org/collecting-data/recommended-devices-for-data-collection). 
 
 
-# Phase 5: How to download your data
+# Stage 5: How to download your data
 
 **Objectives of step**
 * To export your data from Kobo Toolbox into Excel in order to then input your data into the HHOT dashbaord.
@@ -112,35 +105,35 @@ More information on form accessibility and use can be found [here](http://suppor
 **Example:**
 [Kobo Data Download Example](Example%20Folder/Kobotoolbox%20Data%20Download%20Example.xlsx)
 
-1. Once in your Kobo Toolbox account click on the name of the project, which takes you into the summary page. 
+1. In your Kobo Toolbox account click on the name of the project, which takes you into the summary page. 
 ![](Screenshots%20folder/5%20data%20section%20shown.png)
-2. Select **'Data** at the top of the page. 
+2. Select **Data** at the top of the page. 
 ![](Screenshots%20folder/6%20inside%20data%20section.png)
-3. From the list on the left-hand side, select **'Downloads'**. 
+3. From the list on the left-hand side, select **Downloads**. 
 4. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
 ![](Screenshots%20folder/7%20downloading%20from%20kobo.png)
 5. You are now ready to download your data. Click **Export** and then the download button. Depending on the size of your data and strength of wifi this may take a little time. 
 
-# Phase 6: How to input your data into the HHOT dashboard
+# Stage 6: How to input your data into the HHOT dashboard
 
 **Objectives of step**
-* To input your data to the HHOT dashboard and thus visualise it. 
+* To visualise and analyse your data in the HHOT dashboard. 
 
 **Estimated time for task**
-* 30+ minutes, depending on the size and type of your dataset. You may need to make many edits to the HHOT dashboard and therefore it will take you longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in the process.
+* 30+ minutes, depending on the size and type of your dataset. You may need to configure the HHOT dashboard which will take longer. A estimate is difficult in this context, but this is likely to be one  of the more lengthy steps in the process.
 
 **Example:**
-[Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb) 
+[Here is a downloadable example of the dashboard using dummy data](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb). 
 
 1. First open the [HHOT dashboard template](HHOT%20Dashboard%20.xlsb).
 
-If you are unable to see all tabs, please hit the icon with '...' in it at the bottom of the page, this will expand the tabs.
+If you are unable to see all tabs, please hit the '...' button at the bottom of the page and this will expand the tabs.
 
-**LIGHT GREEN TABS**: Your downloaded data goes in these tabs. These tabs are called **‘Hand Hygiene Observation tool’** and **‘OBSERVATION_REPEAT’** - this is the same as on your downloaded data. How to fill them with your data is explained below. 
+**LIGHT GREEN TABS**: Your downloaded data goes in these tabs. These tabs are called **HandHygiene Observation tool** and **OBSERVATION_REPEAT** - you will notice these have the same names as the tabs on your downloaded data. 
 
-**BLUE TAB**: The blue tab lablled **'lists'**.This page will need to be edited to reflect you department facility names as in the data collection form. How to do this is explained below.
+**BLUE TAB**: The blue tab lablled **lists**.This tab will need to be configured to reflect you department and facility names (as in the data collection form). How to do this is explained below.
 
-**RED TABS**: These tabs lablled **'data_manipulated'**, and **'tables'** are for calculation purposes and are not to be edited. Please, **DO NOT EDIT THESE PAGES**. 
+**RED TABS**: These tabs lablled **data_manipulated**, and **tables** are for calculation purposes and should not be edited. Please, **DO NOT EDIT THESE PAGES**. 
 
 **DARK GREEN TAB**: This is the tab where the interactive dashboard will be displayed. How to use this is explained in Phase 7.
 
