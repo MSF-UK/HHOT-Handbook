@@ -185,26 +185,26 @@ Please ensure that the Calculation Options are set to **Automatic**. Go to the E
 1. First input the dates for the time period you would like to visualise / analyse. Use this format: **day/month/year.** 
 2. Enter whichever department, facility, ward or profession filters you would like to visualise / analyse into the criteria table columns, using the dropdown menus.  Then press refresh and the data analysis should be carried out for you. Adjust the criteria in the table, depending on what data you want to analyse, for example doctors handwashing hygiene in the burns ward of UCLH. 
 
-If you are having issues at this step it is likely due to a issue with dashboard configuration. Try retracing your steps through Stage 6 of the process, looking for configuration errors. 
+# Congradulations! You now have visualised your data!
 
-Here is a example of what a correct download looks like. 
-[Kobo Data Download Example](Example%20Folder/Kobotoolbox%20Data%20Download%20Example.xlsx)
+**or you are having issues visualising your data. If the latter, please try the following steps. **
 
-Here is a example of what the HHOT fomatting looks like in use, it may be useful as a point of reference.
-[Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
+1. Try retracing your steps through Stage 6 of the process, looking for configuration errors. Double check that the changes to the dashboard configuration match those made earlier to the data collection form. 
 
-It could also be a issue with the changes made to the 'lists' page, please double check that the changes made match those made earlier to the data collection form. 
+2. Refresh the **ANALYTICS** and go to the pivot table on the left hand side. Turn the option to **true** for date range.
 
-
-Either... **Congradulations! You now have visualised your data!** or you are having issues visualising your data. If the latter, please try the following steps. 
-
-1. Refresh the page and go to the pivot table on the left hand side of the page. Turn the option to **“true”** for date range. 
-2. Then, ensure the pivot table is accurate. The **Row Lables** should match the **Departments** that you have selected in the **Desired Criteria** section. Double click the drop down under **Row Lables** to generate the options availible. 
-
-If this is proving difficult, refresh the page again. 
+3. Ensure the pivot table is accurate. The **Row Labels** should match the **Departments** that you have selected in the **Desired Criteria** section. Double click the drop down under **Row Lables** to see the options availible. 
 
 Here is a step by step guide on [how to referesh a pivot table](https://support.office.com/en-us/article/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2)
 
-If you are having issues with this step it may be that the chagnes made to the 'lists' page are still inconsistant with your data download from Kobo Toolbox, please double check this. 
+**For reference:**
+
+Here is an example of what a correct download looks like. 
+[Kobo Data Download Example](Example%20Folder/Kobotoolbox%20Data%20Download%20Example.xlsx)
+
+Here is a example of what the HHOT dashboard fomatting looks like in use.
+[Example HHOT tool](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb)
+
+# Feedback and improvements welcome!
 
 If you there are any errors in this guide, or you want to improve on the current toolkit or the guide, please document as issues on this github project.
