@@ -114,11 +114,9 @@ More information on form accessibility and use can be found [here](http://suppor
 
 1. In your Kobo Toolbox account click on the name of the project, which takes you into the summary page. 
 
-![](Screenshots%20folder/5%20data%20section%20shown.png)
-
 2. Select **Data** at the top of the page. 
 
-![](Screenshots%20folder/6%20inside%20data%20section.png)
+![](Screenshots%20folder/5%20data%20section%20shown.png)
 
 3. From the list on the left-hand side, select **Downloads**. 
 4. In the **Download Data** criteria, make sure the **Export type** is **XLS** and Value and header format is **XML values and headers**. 
