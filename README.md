@@ -1,11 +1,19 @@
 # Hand Hygiene Observation Toolkit Handbook
 The Explanatory Handbook for the Hand Hygiene Observation Tool.
 
-The Hand Hygiene Observation Toolkit (HHOT) enables users in the field to observe, record, analyse and share hand hygiene observations from medical facilities. The dashboard allows analysis of hand hygiene adherence across facilities, wards and staff groups. This information can inform decision-making and interventions at sites where hand hygiene can be improved.
+# Background
+
+The Hand Hygiene Observation Toolkit (HHOT) was designed by MSF to enable users in the field health facilities to observe, record, analyse and share hand hygiene observations. The toolkit covers data collection (using a phone or tablet) and analysis using a dashboard. The dashboard allows analysis of hand hygiene adherence across facilities, wards and staff groups. This information can inform decision-making and interventions at sites where hand hygiene can be improved.
+
+Note: The MSF version of the HHOT uses PowerBI to do the analysis via an interactive dashboard. As we think this toolkit may be useful to other organisations and institutions, we have developed an excel version of the dashboard (as PowerBI is not commonplace). This excel deshboard is untested in field conditions and has been developed as a starting point for organisations looking to develop hand hygiene auditing to improve quality of care. MSF does not offer support on the implementation of the tollkit described below and recommends full testing before deployment.
+
+A study on the use of HHOT as an effective tool in improving hand hygiene adherance in an MSF facility [can be found here in the Jama Open Network journal](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2747754).
+
+**If you are reading this and you work in an MSF Facility, please contact your IPC lead to find out how to use the MSF version of the toolkit**
 
 The HHOT is based on the WHO [5 Moments for Hand Hygiene approach](http://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf).  
 
-The HHOT measures adherence to the 5 hand hygine moments in the following: 
+The HHOT measures adherence to the following 5 hand hygine moments: 
 * % before touching patient
 * % before clean procedure 
 * % after bodily fluid risk 
@@ -13,12 +21,12 @@ The HHOT measures adherence to the 5 hand hygine moments in the following:
 * % after touching patient surroundings
 
 
-The starter kit for **5 Moments** can be found [here](https://www.who.int/gpsc/5may/tools/en/).
+The starter kit for **5 Moments** [can be found here](https://www.who.int/gpsc/5may/tools/en/).
 
 This HHOT handbook explains how to collect data on the 5 moments of hand hygiene, and how to visualise it within the HHOT dashboard. 
 
-The handbook takes you through seven phases:
-1. How to create a KoBo Toolbox account
+The handbook takes you through seven stages:
+1. How to create a KoBo Toolbox account (for data collection and storage)
 2. How to create Your Data Collection Form 
 3. How to deploy Your Data Collection Form 
 4. How to collect your data
@@ -29,35 +37,33 @@ The handbook takes you through seven phases:
 By the end of this process, you should have a working HHOT dashboard.
 [Here is a downloadable example of the dashboard using dummy data.](Example%20Folder/HHOT%20Dashboard%20Example%20.xlsb).
 
-The HHOT Dashboard's use as a effective tool to improving adherance can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2747754).
-
 And, here is a screenshot of what the dashboard looks like when it is in use. 
 
 ![](Screenshots%20folder/1%20HHOT%20dashboard%20in%20use%20(1).png)
 
-# Phase 1: How to create a KoBo Toolbox account
+# Stage 1: How to create a KoBo Toolbox account
 
 **Objectives of step** 
-* Create KoBo Toolbox account in order to collect data for input into HHOT.
+* Create KoBo Toolbox account in order to collect hand hygiene observation data.
 
 **Estimated time for task**
 * Two minutes.
 
 1. [Click this link to go to Kobo Toolbox](https://www.kobotoolbox.org/). 
-2. Select sign-up, and then create either a Humanitarian Organizations or Researchers account - what follows will work with either.
+2. Select sign-up, and choose either a Humanitarian Organizations or Researchers account - what follows will work with either.
 3. Follow the on-screen instructions, including confirming the account by clicking the link sent to your email address. 
 
-You have now created the platform for data collection. The next phase will be formatting a questionnaire for data collection. 
+You have now created the platform for data collection and storage. The next phase will be formatting an observation survey for data collection. 
 
-Please note: Kobo works best in Google Chrome, and you may be unable to use it in Internet Explorer or Firefox. 
+Please note: We have found Kobo works best in Google Chrome. 
 
-# Phase 2: How to create Your Data Collection Form 
+# Stage 2: How to create Your Data Collection Form 
 
 **Objectives of step**
 * Correctly format your data collection form in preparation for uploading to Kobo. 
 
 **Estimated time for task**
-* This task requires formatting the data collection form provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).
+* This task requires configuring the data collection form template provided, how much time it takes depends on the amount of edits made (so how many sites/facilities you wish to collect data on).
 
 [Example Data Collection Form](Example%20Folder/Data%20Collection%20Form%20.xlsx). 
 
